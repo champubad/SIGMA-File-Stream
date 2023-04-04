@@ -108,7 +108,7 @@ async def start(b, m):
             except Exception:
                 await b.send_message(
                     chat_id=m.chat.id,
-                    text="**Sᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ Wʀᴏɴɢ. Cᴏɴᴛᴀᴄᴛ ᴍᴇ** [➳⚡️𝔗𝔥𝔢 𝔉𝔩𝔞𝔰𝔥⚡️༻](https://t.me/ACE_ML).",
+                    text="**Sᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ Wʀᴏɴɢ. Cᴏɴᴛᴀᴄᴛ ᴍᴇ** [Ｈａｍｚａ](https://t.me/SigmaMirrorz).",
                     parse_mode="markdown",
                     disable_web_page_preview=True)
                 return
